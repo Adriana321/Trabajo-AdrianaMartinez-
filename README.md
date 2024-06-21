@@ -8,3 +8,4 @@ La Webstory cobra vida con una paleta de colores vibrantes inspirada en la bande
 
 Pensando en los aficionados al fútbol y en aquellos interesados en los datos históricos de las jugadoras, el perfil de usuarios está cuidadosamente diseñado para atraer a un público amplio y apasionado. El logo, con el nombre “Guerreras de la Roja” y la imagen icónica de una pelota de fútbol, encapsula la esencia del equipo y su espíritu combativo, convirtiéndose en un símbolo de orgullo y unidad para todos los seguidores.
 
+Link video youtube: https://youtu.be/h0IdU2dbY-g
