@@ -6,6 +6,6 @@ Guerreras de la Roja es una fascinante Webstory que celebra a la selección feme
 La Webstory cobra vida con una paleta de colores vibrantes inspirada en la bandera chilena y el verde del pasto, creando una experiencia visual que refleja el orgullo y la pasión del fútbol chileno. En el desarrollo de este proyecto, me guié por las fuentes oficiales más confiables: la página oficial de La Roja (laroja.cl) y la página de la ANFP (anfp.cl).
 
 
-Pensando en los aficionados al fútbol y en aquellos interesados en los datos históricos de las jugadoras, el perfil de usuarios está cuidadosamente diseñado para atraer a un público amplio y apasionado. El logo, con el nombre “Guerreras de la Roja” y la imagen icónica de una pelota de fútbol, encapsula la esencia del equipo y su espíritu combativo, convirtiéndose en un símbolo de orgullo y unidad para todos los seguidores.
+Pensando en los aficionados al fútbol y en aquellos interesados en los datos históricos de las jugadoras, el perfil de usuarios está cuidadosamente diseñado para atraer a un público amplio y apasionado del fútbol. El logo, con el nombre “Guerreras de la Roja” y la imagen icónica de una pelota de fútbol, encapsula la esencia del equipo y su espíritu combativo, convirtiéndose en un símbolo de orgullo y unidad para todos los seguidores.
 
 Link video youtube: https://youtu.be/h0IdU2dbY-g
